@@ -1,4 +1,5 @@
-# **Soft Drink Market Insight Dashboard – Power BI Project**
+# **Soft Drink Market Insight Dashboard Power BI Project**
+![Softdrink Banner](https://github.com/user-attachments/assets/bc3c01da-43a3-44ed-9478-1d505f9c4118)
 
 ## 📊 Project Overview
 
@@ -14,25 +15,24 @@ The analysis uncovers market dominance patterns, visibility challenges, product 
 
 **Here’s what I discovered:**
 
-Coca-Cola isn’t just popular—it absolutely dominates the market, showing 68.5% penetration across outlets. This level of visibility doesn’t happen by chance. It happens because Coca-Cola is almost always present, always displayed, and always accessible. Pepsi follows closely, proving just how competitive the space is.
+Coca-Cola isn’t just popular it absolutely dominates the market, showing 68.5% penetration across outlets. This level of visibility doesn’t happen by chance. It happens because Coca-Cola is almost always present, always displayed, and always accessible. Pepsi follows closely, proving just how competitive the space is.
 
 But not all brands enjoy this advantage.
 
-Mountain Dew, for example, has the lowest visibility in the entire dataset. Why? Because it barely appears in most outlets—only kiosks and shops. In a market where distribution equals visibility, this was a major weakness. Fayrouz had a similar challenge.
+Mountain Dew, for example, has the lowest visibility in the entire dataset. Why? Because it barely appears in most outlets only kiosks and shops. In a market where distribution equals visibility, this was a major weakness. Fayrouz had a similar challenge.
 
-When I analyzed display strategy, the picture became even clearer. Over 927 outlets use the display stand, making it the most powerful visibility tool. Brands that dominated the display stand—like Coca-Cola—also dominated in market presence.
+When I analyzed display strategy, the picture became even clearer. Over 927 outlets use the display stand, making it the most powerful visibility tool. Brands that dominated the display stand like Coca-Cola—also dominated in market presence.
 
 Packaging was another interesting insight: PET bottles accounted for 78% of all stocked products. This confirms the strong consumer preference for PET formats over cans or glass.
 
 One of my favorite insights was consumer trend analysis. The top brands account for the majority of consumption, and the curve drops sharply afterward. This shows just how concentrated consumer preference is.
 
-Finally, hawkers turned out to be the silent giants of distribution—responsible for 47% of total consumption.
+Finally, hawkers turned out to be the silent giants of distribution responsible for 47% of total consumption.
 
 This project reminded me how much distribution, visibility, and packaging influence market dominance.
 
 And it reinforced something powerful:
-Sometimes the difference between a top-performing brand and a struggling one isn’t the product—
-…it’s the execution.
+Sometimes the difference between a top-performing brand and a struggling one isn’t the product, it’s the execution.
 
 I really enjoyed breaking down this dataset and transforming it into insights that brands can act on.
 
@@ -52,8 +52,8 @@ I really enjoyed breaking down this dataset and transforming it into insights th
 
 ## 📁 Repository Contents
 
-* `/dashboard/` – Power BI (.pbix) file
-* `/data/` – Raw or sample dataset (if allowed to share)
+* `/dashboard/` – Power BI (.pbix)
+* `/data/` – Raw or sample dataset 
 * `/images/` – Screenshots of dashboard pages
 * `README.md` – Project documentation (this file)
 
