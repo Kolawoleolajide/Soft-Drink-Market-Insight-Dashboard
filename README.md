@@ -55,6 +55,7 @@ I really enjoyed breaking down this dataset and transforming it into insights th
 * `/data/` – Raw or sample dataset 
 * `/images/` – Screenshots of dashboard pages
 * `README.md` – Project documentation (this file)
+* `/dashboard interaction Gif/` - Gif
 
 ---
 
