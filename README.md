@@ -33,7 +33,6 @@ This project reminded me how much distribution, visibility, and packaging influe
 
 And it reinforced something powerful:
 Sometimes the difference between a top-performing brand and a struggling one isn’t the product, it’s the execution.
-
 I really enjoyed breaking down this dataset and transforming it into insights that brands can act on.
 
 **If you're into data analytics, Power BI storytelling, or market insights, I’d love to connect!**
