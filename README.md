@@ -84,6 +84,6 @@ I really enjoyed breaking down this dataset and transforming it into insights th
 
 If you found this project valuable or want to collaborate, feel free to reach out!
 
-📧 Email: *(add yours)*
-🔗 LinkedIn: *(add your profile link)*
+📧 Email: *Kolawole.olajide.e@gmail.com*
+🔗 LinkedIn: *(https://www.linkedin.com/in/kolawole-olajide/)*
 ⭐ Don’t forget to star the repo if you find it helpful!
