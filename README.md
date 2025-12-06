@@ -78,7 +78,10 @@ I really enjoyed breaking down this dataset and transforming it into insights th
 3. Explore KPIs, charts, and insights
 4. Apply filters for deeper analysis
 
+**[Dashboard Screenshot]**
 ---
+![Soft Drink Market Insight Dashboard1](https://github.com/user-attachments/assets/6fb64716-1ee3-46d8-a4fe-b2bca9315ec3) ![Soft Drink Market Insight Dashboard2](https://github.com/user-attachments/assets/4b2728dd-7dce-426b-a33c-0cf004497dd8)
+
 
 ## 🤝 Let’s Connect
 
